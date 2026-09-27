@@ -1,8 +1,5 @@
-# ⚡ VoltRelay Energy — Battery Swap Network Analytics
 
-<p align="center">
-  <img src="assets/voltrelay-banner.gif" alt="VoltRelay Energy Analytics" width="100%">
-</p>
+# ⚡ VoltRelay Energy — Battery Swap Network Analytics
 
 <p align="center">
 
@@ -13,8 +10,6 @@
 <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Gradient-Data%20Analytics%20Hackathon-111827?style=for-the-badge">
 
 </p>
 <p align="center">
